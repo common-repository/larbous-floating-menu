@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Larbous Floating Menu v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-15 10:41-0300\n"
+"Last-Translator: Luiz Sobral <lctsobral@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ larbous-floating-menu
+# @ default
+#: larbous-floating-menu.php:65 larbous-floating-menu.php:111
+msgid "Floating Menu Settings"
+msgstr "Postavke lebdećeg menija"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:113
+msgid "Tutorial"
+msgstr "Tutorijal"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:115
+msgid ""
+"Before you set any options you need to create a custom menu in <em> "
+"\"Appearance / Menu\" <em> and then select here. <br> By default, this "
+"plugin takes a menu created with the name \"Floating Menu\"."
+msgstr ""
+"Pre nego što podesite bilo koju opciju morate da podesite custom meni na "
+"<em> \"Izgled / Meni\" </em> i potom kliknete ovde. <br> Po defaultu, ovaj "
+"plugin uzima meni kreiran sa imenom \"Lebdeći Meni\"."
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:122
+msgid "Choose a menu"
+msgstr "Izabrati meni"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:138
+msgid "Vertical position on the screen"
+msgstr "Vertikalna pozicijs na ekranu"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:147
+msgid "Color Menu"
+msgstr "Boja menja"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:157
+msgid "Color Menu Hover"
+msgstr "Boja lebdećeg menija"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:133
+msgid "Dimensions (Width X Height)"
+msgstr "Dimenzije (Širina X Visina)"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:143
+msgid "Font Color Menu"
+msgstr "Boja fonta menija"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:152
+msgid "Font Color Menu Hover"
+msgstr "Boja lebdećeg fonta menija "
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:65
+msgid "Larbous Floating Menu"
+msgstr "Larbous lebdeći meni"

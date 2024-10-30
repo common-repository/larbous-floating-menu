@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Larbous Floating Menu v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-15 10:40-0300\n"
+"Last-Translator: Luiz Sobral <lctsobral@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: it\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ larbous-floating-menu
+# @ default
+#: larbous-floating-menu.php:65 larbous-floating-menu.php:111
+msgid "Floating Menu Settings"
+msgstr "Le impostazioni di menu mobile"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:113
+msgid "Tutorial"
+msgstr "Lezione"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:115
+msgid ""
+"Before you set any options you need to create a custom menu in <em> "
+"\"Appearance / Menu\" <em> and then select here. <br> By default, this "
+"plugin takes a menu created with the name \"Floating Menu\"."
+msgstr ""
+"È necessario creare un menu personalizzato in <em> Aspetto / Menu </em> "
+"prima di impostare tutte le opzioni e selezionarla qui. <br>Per impostazione "
+"predefinita, questo plugin prende un menu creato con il nome di \"Floating "
+"Menu \"."
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:122
+msgid "Choose a menu"
+msgstr "Scegli un menu"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:138
+msgid "Vertical position on the screen"
+msgstr "Posizione verticale sullo schermo"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:147
+msgid "Color Menu"
+msgstr "Colore Menu"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:157
+msgid "Color Menu Hover"
+msgstr "Colore del menu spostando il mouse"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:133
+msgid "Dimensions (Width X Height)"
+msgstr "Dimensioni (Larghezza x Altezza)"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:143
+msgid "Font Color Menu"
+msgstr "Colore carattere di menù"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:152
+msgid "Font Color Menu Hover"
+msgstr "Colore carattere del menu attivo"
+
+# @ larbous-floating-menu
+#: larbous-floating-menu.php:65
+msgid "Larbous Floating Menu"
+msgstr "Larbous Menu Mobile"
